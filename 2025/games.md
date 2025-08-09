@@ -1,4 +1,4 @@
-** Games I've beaten in 2025 **
+# **Games I've beaten in 2025**
 
 * Sonic Adventure DX
 * Sonic Adventure 2

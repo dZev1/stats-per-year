@@ -1,6 +1,7 @@
-** Albums I've listened to in 2025 **
+# **Albums I've listened to in 2025**
 
-REVISITAS:
+## REVISITAS
+
 * Clancy - Twenty One Pilots
 * Vessel - Twenty One Pilots
 * Scaled And Icy - Twenty One Pilots
@@ -17,7 +18,8 @@ REVISITAS:
 * CHROMAKOPIA - Tyler, The Creator
 * Bicicleta - Serú Girán
 
-VISITAS:
+## VISITAS
+
 * Danger Days: The True Lives of the Fabulous Killjoys - My Chemical Romance
 * Number One / Two / Three / Four / Five - My Chemical Romance
 * American Idiot - Green Day
@@ -25,7 +27,7 @@ VISITAS:
 * POST HUMAN: SURVIVAL HORROR - Bring Me The Horizon
 * Here Be Dragons - Avantasia
 * Difficult To Cure - Rainbow
-* CALL ME IF YOU GET LOST - Tyler, The Creator 
+* CALL ME IF YOU GET LOST - Tyler, The Creator
 * PAPOTA - CA7RIEL & Paco Amoroso
 * BAÑO MARÍA - CA7RIEL & Paco Amoroso
 * Cabildo y Juramento - Conociendo Rusia
