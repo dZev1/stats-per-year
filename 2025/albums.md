@@ -17,6 +17,7 @@
 * IGOR - Tyler, The Creator
 * CHROMAKOPIA - Tyler, The Creator
 * Bicicleta - Serú Girán
+* In The Court Of The Crimson King - King Crimson
 
 ## VISITAS
 
@@ -48,3 +49,7 @@
 * A Matter Of Time - Laufey
 * Hamilton (Original Broadway Cast Recording) - Lin-Manuel Miranda & more
 * Voulez-Vous - ABBA
+* A Matter of Time - Laufey
+* The Stranger - Billy Joel
+* Don't Tap The Glass - Tyler, The Creator
+

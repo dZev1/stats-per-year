@@ -4,3 +4,5 @@
 * Sonic The Hedgehog II
 * Thunderbolts
 * Lilo & Stitch
+* Star Wars III: Revenge Of The Sith
+* Hamilton: The Musical

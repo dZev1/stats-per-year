@@ -12,4 +12,4 @@
 * Undertale
 * Crash Bandicoot 2: Cortex Strikes Back
 * Crash Bandicoot: Warped
-* Death Stranding
+* Hollow Knight: Silksong
